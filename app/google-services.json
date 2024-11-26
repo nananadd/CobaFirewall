@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68366548896",
+    "project_id": "cobafirewall261124",
+    "storage_bucket": "cobafirewall261124.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68366548896:android:fabe022b466f39eeaaeec5",
+        "android_client_info": {
+          "package_name": "c14220230.paba.cobafirewall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFeX4VoE4067znIAYmqfbLNsqohsMa7iE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
